@@ -1,2 +1,2 @@
-# Powerlearnproject-Finalproject-python-module
-This is my python final project with PLP.
+# Powerlearnproject-Finalproject-python-module(A TEXT-TO-IMAGE-GENERATOR)
+This is my python, final project with PLP.
