@@ -1,2 +1,3 @@
-# Powerlearnproject-Finalproject-python-module(to do app)
-This is my python, final project with PLP.
+# Powerlearnproject-Finalproject-python-module(to do app) using django
+This is my python(Django), final project with PLP.
+this application helps users note down tasks that they will do.
